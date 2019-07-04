@@ -1,5 +1,7 @@
 ## BIN2HEX
 
+Bin file load in windows system and not read , So this tool is translate the bin file to hex text file
+
 ### Environment
 	
 	jdk 1.7 + 
