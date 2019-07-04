@@ -10,4 +10,5 @@
 	Copy the file while you want to translate on this path 
 	click the Run.bat
 	
-	![use](https://github.com/damonlear/Bin2Hex/blob/master/img/use.gif)
+## Use Video
+![use](https://raw.githubusercontent.com/damonlear/Bin2Hex/master/img/use.gif)
